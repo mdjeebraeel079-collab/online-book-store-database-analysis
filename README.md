@@ -1,5 +1,9 @@
 # 📚 Online Book Store Database Analysis using SQL
 
+![Database Schema](1.database_schema.png)
+
+# 📚 Online Book Store Database Analysis using SQL
+
 ## 📖 Project Overview
 
 This project demonstrates SQL skills by analyzing an Online Book Store database using PostgreSQL. The project includes three related tables (Books, Customers, and Orders) and solves business problems using SQL queries.
